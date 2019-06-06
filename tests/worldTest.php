@@ -5,7 +5,7 @@ namespace Hello;
 use PHPUnit\Framework\TestCase;
 
 
-class testWorld extends TestCase
+class worldTest extends TestCase
 {
     public function testObSebUndMarcusAuchDabei()
     {
