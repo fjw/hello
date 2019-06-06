@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ruleset name="DDHEX Deluxe Standard" namespace="hello\CS\Standard">
+
+    <description>A custom coding standard DELUXE</description>
+
+    <rule ref="PSR2" />
+
+    <rule ref="Squiz.WhiteSpace.ControlStructureSpacing.SpacingAfterOpen">
+        <severity>0</severity>
+    </rule>
+    <rule ref="Squiz.WhiteSpace.ControlStructureSpacing.SpacingBeforeClose">
+        <severity>0</severity>
+    </rule>
+
+</ruleset>
